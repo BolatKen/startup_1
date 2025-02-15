@@ -1,0 +1,26 @@
+Folder PATH listing for volume OS
+C:\USERS\PC\DESKTOP\STARTUP_1\STARTUP_1
+|   README.md
+|   
+\---venv
+    |   pyvenv.cfg
+    |   
+    +---Include
+    +---Lib
+    |   ...
+    |               
+    +---Scripts
+    |       activate
+    |       activate.bat
+    |       ...
+    |       
+    \---startup_1
+        |   run.py
+        |   
+        \---app
+            |   routes.py
+            |   __init__.py
+            |   
+            \---__pycache__
+                ...
+                    
